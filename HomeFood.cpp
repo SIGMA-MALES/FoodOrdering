@@ -697,7 +697,6 @@ int main() {
             }
 
         else
-
         {
 
             cout<<"(:Thanks! for visiting:)"<<endl<< "(:Have a nice Day:)";
@@ -705,7 +704,6 @@ int main() {
         }
 
     }
-
     else {
 
         cout<<"(:Thanks! for visiting:)"<<endl<< "(:Have a nice Day:)";
